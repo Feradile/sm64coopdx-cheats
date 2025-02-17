@@ -1,7 +1,10 @@
 # sm64coopdx-cheats
 ## It's easy! Give it a try! Download my Cheat Table or die!
+
 Usually everything relies on making hotkeys, so you'll have to make some of your own!
+
 All codes were found by me, and only me, either by using Cheat Engine itself, or using stroop on Project64 to find some values easily.
+
 If you have any questions just make an issue since I have no life
 
 Here's a preview:
