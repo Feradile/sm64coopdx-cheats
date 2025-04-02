@@ -5,6 +5,12 @@
 
 # [Read the Wiki for instructions](https://github.com/Feradile/sm64coopdx-cheats/wiki)
 
+### Will it work for the DirectX version?
+
+> I don't know, because I haven't tested it, because DirectX is cringe and OpenGL is better, why are you even using DirectX in the first place?
+
+> If you can only play the game via DirectX you can try my cheat table on that version and at atleast give it a shot
+
 Usually everything relies on making hotkeys, so you'll have to make some of your own!
 
 All codes were found by me, and only me, either by using Cheat Engine itself, or using stroop on Project64 to find some values easily.
