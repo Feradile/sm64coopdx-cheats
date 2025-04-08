@@ -5,6 +5,8 @@
 
 # [Read the Wiki for instructions](https://github.com/Feradile/sm64coopdx-cheats/wiki)
 
+# [Discord Server](https://discord.gg/eXA6GJ8qgF)
+
 ### Will it work for the DirectX version?
 
 > I don't know, because I haven't tested it, because DirectX is cringe and OpenGL is better, why are you even using DirectX in the first place?
